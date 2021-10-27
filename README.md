@@ -1,4 +1,4 @@
-# Custom_Module
+# ModuleCustomer
 I. Các bước pull code và chạy module
 
   - B1: Pull source code về project của bạn
