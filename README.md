@@ -3,7 +3,7 @@ I. Các bước pull code và chạy module
 
   - B1: Pull source code về project của bạn
   - B2: Mở terminal, chạy : cd /var/www/html/tên project/app/code 
-  - B3: Chạy trong terminal: git clone https://github.com/vanthinh21101999/Custom_Module.git
+  - B3: Chạy trong terminal: git clone https://github.com/VinhLeo251/ModuleCustomer.git
   - B4: chạy các lệnh trong terminal: bin/magento setup:upgrade && bin/magento setup:di:compile && bin/magento c:c && bin/magento s:s:d -f
   - B5: Hoàn thành.
 
